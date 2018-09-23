@@ -1,5 +1,5 @@
 # AirBnB-Dataset
-# Predicting Airbnb new user bookings by Jared Ellse, Kumar Shourabh, Ramya Sreekumar and Sarita Singh
+# Predicting Airbnb new user bookings by Ramya Sreekumar, Sarita Singh, Jared Ellse, Kumar Shourabh and 
 
 
 #---Load libraries
